@@ -3,7 +3,6 @@
 **Trabajo de Titulación — Instituto Superior Tecnológico Alquimia**  
 Carrera de Ciberseguridad · 2026  
 Autor: Vicente Alejandro Venegas Riera  
-Tutor: Ing. Fernando Albrito
 
 ---
 
@@ -114,10 +113,3 @@ Mejoras implementadas en este trabajo:
 - Módulo de **captura en tiempo real** con webcam
 - Sistema de **base de datos local** para el entorno institucional
 - Documentación completa en español
-
-## Marco legal
-
-El tratamiento de datos biométricos se realiza en cumplimiento de la
-**Ley Orgánica de Protección de Datos Personales del Ecuador (LOPDP, 2021)**.
-Todo usuario debe otorgar consentimiento libre, específico e informado
-antes de registrar su iris en el sistema.
